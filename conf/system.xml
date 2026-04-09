@@ -192,4 +192,9 @@
   <LibraryScanFanoutConcurrency>0</LibraryScanFanoutConcurrency>
   <LibraryMetadataRefreshConcurrency>0</LibraryMetadataRefreshConcurrency>
   <RemoveOldPlugins>false</RemoveOldPlugins>
+  <CastReceiverApplications>
+    <CastReceiverApplication>
+      <Name>Jellyfin</Name>
+    </CastReceiverApplication>
+  </CastReceiverApplications>
 </ServerConfiguration>
