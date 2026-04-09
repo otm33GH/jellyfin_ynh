@@ -194,7 +194,8 @@
   <RemoveOldPlugins>false</RemoveOldPlugins>
   <CastReceiverApplications>
     <CastReceiverApplication>
-      <Name>Jellyfin</Name>
+      <ApplicationId>CC1AD845</ApplicationId>
+      <Name>Chromecast</Name>
     </CastReceiverApplication>
   </CastReceiverApplications>
 </ServerConfiguration>
